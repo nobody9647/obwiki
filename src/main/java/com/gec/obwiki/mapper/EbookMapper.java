@@ -1,0 +1,16 @@
+package com.gec.obwiki.mapper;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.gec.obwiki.entity.Ebook;
+
+/**
+ * <p>
+ * 电子书 Mapper 接口
+ * </p>
+ *
+ * @author cr
+ * @since 2023-11-08
+ */
+public interface EbookMapper extends BaseMapper<Ebook> {
+
+}
